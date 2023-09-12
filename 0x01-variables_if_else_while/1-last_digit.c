@@ -21,7 +21,7 @@ int main(void)
 	}
 	else if (ld == 0)
 	{
-		printf("Last < 6 && last != 0"), n, ld);
+		printf(last < 6 && last != 0);
 	}
 	else
 	{
