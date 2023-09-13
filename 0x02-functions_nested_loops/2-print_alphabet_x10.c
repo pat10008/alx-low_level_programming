@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet -make the alphabet
+ * print_alphabet_x10 - make the alphabet
  * Return: void
  */
 void print_alphabet_x10(void)
@@ -9,9 +9,9 @@ void print_alphabet_x10(void)
 	char c;
 	int i = 0;
 
-	while (i <= 9)
+	while (i <= 10)
 	{
-	for (c = 'a'; c <= 'j'; c++)
+	for (c = 'a'; c <= 'Z'; c++)
 	{
 	_putchar(c);
 	}
