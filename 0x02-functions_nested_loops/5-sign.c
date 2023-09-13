@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isalpha - Entry point
  * @c: character check
@@ -21,5 +20,3 @@ int print_sign(int n)
 	}
 		return (-1);
 }
-
-
