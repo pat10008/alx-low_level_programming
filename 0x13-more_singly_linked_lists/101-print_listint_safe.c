@@ -46,7 +46,7 @@ size_t looped_listint_len(const listint_t *head)
 			return (nodes);
 		}
 
-		panya = panya->next;
+		paya = paya->next;
 		chura = (chura->next)->next;
 	}
 
